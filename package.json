@@ -91,12 +91,12 @@
     "futoin-hkdf": "^1.3.2",
     "latest-version": "^5.1.0",
     "mime-types": "^2.1.27",
-    "puppeteer": "^3.0.0",
+    "puppeteer": "^22.8.2",
     "puppeteer-extra": "^3.1.9",
     "puppeteer-extra-plugin-stealth": "^2.4.9",
     "qrcode-terminal": "^0.12.0",
     "rxjs": "^6.6.3",
-    "sharp": "^0.25.2",
+    "sharp": "^0.33.0",
     "spinnies": "^0.5.1",
     "tree-kill": "^1.2.2"
   }
